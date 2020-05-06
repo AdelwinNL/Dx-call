@@ -57,7 +57,7 @@ Blog  \033[1;91m:\033[1;92mhttp://adelwindx.blogspot.com\033[1;97m
 print (banner)
 jm = int(input("\033[1;97m[\033[1;96mmasukan jumlah spam\033[1;97m]:\033[1;93m"))
 time.sleep(2)
-subprocess.call("nano kintil.py",shell=True)
+subprocess.call("nano Dx-call.py",shell=True)
 print ("\033[1;92mLoading\033[1;97m...")
 time.sleep(2)
 head = {
